@@ -1,6 +1,6 @@
 # bugbounty_changelogs
 
-Newly released features mean new bugs right? I dorked changelogs / development progress tracking pages for >200 bug bounty programs (excluding VDPs), parsed them and created a list containing the most informative and constantly updating changelogs. If you have something to add, feel free to propose a pull request.
+Newly released features mean new bugs right? I dorked changelogs / development progress tracking pages for >200 bug bounty programs (excluding VDPs), parsed them and created a list containing the most informative and constantly updating changelogs. If you have something to add, feel free to drop a pull request - I'll add a changelog if it's interesting enough and the last changes were recent.
 
 # Public:
 
