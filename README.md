@@ -1,7 +1,7 @@
 <img width="737" alt="Screenshot 2021-10-12 at 20 34 57" src="https://user-images.githubusercontent.com/38838852/137002940-f1bc0d3d-8aa2-46c3-b162-89c3d71a1b4c.png">
 
 
-Newly released features mean new bugs right? I dorked changelogs / development progress tracking pages for >200 bug bounty programs (excluding VDPs), parsed them and created a list containing the most informative and constantly updating changelogs. If you have something to add, feel free to drop a pull request - I'll add a changelog if it's interesting enough and the last changes were recent.
+Newly released features mean new bugs right? I dorked changelogs/development progress tracking pages for >200 bug bounty programs (excluding VDPs), parsed them and created a list containing the most informative and constantly updating changelogs. If you have something to add, feel free to drop a pull request - I'll add a changelog if it's interesting enough and the last changes were recent.
 
 # Public:
 
