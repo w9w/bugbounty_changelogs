@@ -1,6 +1,6 @@
 # bugbounty_changelogs
 
-I dorked changelogs / development progress tracking pages for bug bounty programs and formed a list containing the most informative and constantly updating changelogs. If you have something to add, feel free to propose a pull request.
+Newly released features mean new bugs right? I dorked changelogs / development progress tracking pages for >200 bug bounty programs (excluding VDPs), parsed them and created a list containing the most informative and constantly updating changelogs. If you have something to add, feel free to propose a pull request.
 
 # Public:
 
@@ -87,6 +87,8 @@ Wordpress: https://codex.wordpress.org/WordPress_Versions
 Airtable: https://www.airtable.com/whatsnew
 
 Django: https://docs.djangoproject.com/en/3.2/releases/
+
+Epic Games: https://trello.com/b/GXLc34hk/epic-games-store-roadmap
 
 1password: https://releases.1password.com/windows/early-access/
 
