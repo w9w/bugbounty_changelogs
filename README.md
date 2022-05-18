@@ -63,8 +63,6 @@ Github: https://github.blog/changelog/
 
 Dashlane: https://support.dashlane.com/hc/en-us/articles/360014017920-Admin-Console-updates
 
-Vk.com: https://vk.com/dev/versions (Russian)
-
 Zendesk: https://support.zendesk.com/hc/en-us/sections/360004061994-Release-Notes
 
 Shopify: https://changelog.shopify.com/
@@ -102,3 +100,77 @@ Intercom: https://www.intercom.com/changes/en
 You need a budget: https://www.youneedabudget.com/release-notes/
 
 Lastpass: https://lastpass.com/upgrade.php?fromwebsite=1&releasenotes=1
+
+DigitalOcean: https://docs.digitalocean.com/release-notes/
+
+Discord: https://discord.com/developers/docs/change-log
+
+Instacart: https://docs.instacart.com/connect/api/fulfillment/changelog/
+
+OpenSea: https://docs.opensea.io/changelog
+
+Krisp: https://whatsnew.krisp.ai/
+
+Exodus: https://www.exodus.com/releases/
+
+Aiven: https://aiven.io/changelog
+
+Acronis: https://www.acronis.com/en-sg/support/updates/changes.html?p=42226
+
+Facebook:
+- Graph: https://developers.facebook.com/docs/graph-api/changelog/
+- Messenger: https://developers.facebook.com/docs/messenger-platform/changelog
+- IG API: https://developers.facebook.com/docs/instagram-api/changelog
+- Whatsapp for business: https://developers.facebook.com/docs/whatsapp/business-platform/changelog
+- Quest: https://store.facebook.com/help/quest/articles/whats-new/release-notes/
+- Oculus browser: https://developer.oculus.com/documentation/web/browser-release-notes/
+
+Google:
+- Chrome: https://chromereleases.googleblog.com/
+- Chrome enterprise: https://support.google.com/chrome/a/answer/7679408?hl=en
+- Cloud: https://cloud.google.com/release-notes
+- Android: https://developer.android.com/about/versions/12/release-notes
+- YT: https://support.google.com/youtube/answer/9730487?hl=en
+- Waze: https://developers.google.com/waze/wam-api/resources/change-log
+- Google earth: https://developers.google.com/earth-engine/changelog?hl=en
+- My business: https://developers.google.com/my-business/content/change-log?hl=en
+- Recaptcha: https://developers.google.com/recaptcha/docs/changelog?hl=en
+
+Apple:
+- General updates: https://developer.apple.com/news/releases/?id=12072021h
+- MacOS: https://developer.apple.com/documentation/macos-release-notes
+- IOS/IPADOS: https://developer.apple.com/documentation/ios-ipados-release-notes
+- Safari preview: https://developer.apple.com/safari/technology-preview/release-notes/
+- Safari: https://developer.apple.com/documentation/safari-release-notes
+
+Linkedin: https://www.linkedin.com/help/talent-hub/answer/a147710
+
+Microsoft:
+- Office: https://docs.microsoft.com/en-us/officeupdates/
+- Office MacOS: https://docs.microsoft.com/en-us/officeupdates/release-notes-office-for-mac
+- Graph: https://developer.microsoft.com/en-us/graph/changelog/
+- Windows 10: https://support.microsoft.com/en-us/topic/windows-10-update-history-53c270dc-954f-41f7-7ced-488578904dfe
+- Edge: https://docs.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel
+- Azure: https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new
+- Exchange server: https://techcommunity.microsoft.com/t5/forums/searchpage/tab/message?q=updates%20exchange%20server&noSynonym=false&collapse_discussion=true
+- Skype: https://support.skype.com/en/faq/fa34778/what-s-new-in-skype-for-windows-mac-linux-and-web
+
+Roblox: https://devforum.roblox.com/c/updates/release-notes/62
+
+Rockstar launcher: https://support.rockstargames.com/search?query=Rockstar%20Games%20Launcher%20Release%20Notes
+
+Firefox:
+- Desktop: https://www.mozilla.org/en-US/firefox/100.0.1/releasenotes/
+- Android: https://www.mozilla.org/firefox/android/notes
+
+Kubernetes: https://kubernetes.io/releases/
+
+Splunk Enterprise: https://docs.splunk.com/Documentation/Splunk/8.2.6/ReleaseNotes/MeetSplunk
+
+Seek: https://developer.seek.com/introduction/release-notes
+
+Expressvpn: https://www.expressvpn.com/support/release-notes/
+
+Imperva: https://docs.imperva.com/bundle/articles/page/73179.htm
+
+Cloudflare: https://www.cloudflare.com/whats-new/
