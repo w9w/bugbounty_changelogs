@@ -174,3 +174,5 @@ Expressvpn: https://www.expressvpn.com/support/release-notes/
 Imperva: https://docs.imperva.com/bundle/articles/page/73179.htm
 
 Cloudflare: https://www.cloudflare.com/whats-new/
+
+AEX: https://www.aex.com/page/doc/en/update/update.html
