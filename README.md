@@ -59,8 +59,6 @@ Discourse: https://meta.discourse.org/c/releases/30
 
 Quora: https://productupdates.quora.com/
 
-Github: https://github.blog/changelog/
-
 Dashlane: https://support.dashlane.com/hc/en-us/articles/360014017920-Admin-Console-updates
 
 Zendesk: https://support.zendesk.com/hc/en-us/sections/360004061994-Release-Notes
@@ -143,8 +141,6 @@ Apple:
 - Safari preview: https://developer.apple.com/safari/technology-preview/release-notes/
 - Safari: https://developer.apple.com/documentation/safari-release-notes
 
-Linkedin: https://www.linkedin.com/help/talent-hub/answer/a147710
-
 Microsoft:
 - Office: https://docs.microsoft.com/en-us/officeupdates/
 - Office MacOS: https://docs.microsoft.com/en-us/officeupdates/release-notes-office-for-mac
@@ -154,6 +150,9 @@ Microsoft:
 - Azure: https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/whats-new
 - Exchange server: https://techcommunity.microsoft.com/t5/forums/searchpage/tab/message?q=updates%20exchange%20server&noSynonym=false&collapse_discussion=true
 - Skype: https://support.skype.com/en/faq/fa34778/what-s-new-in-skype-for-windows-mac-linux-and-web
+- Linkedin: https://www.linkedin.com/help/talent-hub/answer/a147710
+- Linkedin Marketing API: https://docs.microsoft.com/en-us/linkedin/marketing/integrations/recent-changes
+- Github: https://github.blog/changelog/
 
 Roblox: https://devforum.roblox.com/c/updates/release-notes/62
 
