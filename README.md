@@ -115,7 +115,7 @@ Aiven: https://aiven.io/changelog
 
 Acronis: https://www.acronis.com/en-sg/support/updates/changes.html?p=42226
 
-Facebook:
+Meta:
 - Graph: https://developers.facebook.com/docs/graph-api/changelog/
 - Messenger: https://developers.facebook.com/docs/messenger-platform/changelog
 - IG API: https://developers.facebook.com/docs/instagram-api/changelog
@@ -186,3 +186,53 @@ Twitter:
 - https://blog.hootsuite.com/social-media-updates/twitter/
 
 Twillio: https://www.twilio.com/changelog
+
+Tiktok: https://blog.hootsuite.com/social-media-updates/tiktok/
+
+Pinterest: https://blog.hootsuite.com/social-media-updates/pinterest/
+
+Discord: https://discord.com/developers/docs/change-log
+
+Zabbix: https://www.zabbix.com/release_notes
+
+Miro: https://miro.com/changelog/
+
+MalwareBytes: https://support.malwarebytes.com/hc/en-us/sections/360005863113-Release-History-News
+
+Hedera Hashgraph: https://docs.hedera.com/hedera/networks/release-notes/services
+
+Moonpay: https://www.moonpay.com/newsroom
+
+Doppler: https://www.doppler.com/changes
+
+Teleport: https://goteleport.com/docs/changelog/
+
+Amazon AWS: https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime&whats-new-content-all.sort-order=desc&awsf.whats-new-categories=*all
+
+Metamask: https://metamask.io/institutions/changelog/
+
+Gojek: https://www.gojek.com/sg/blog/?q=updates&category=
+
+Palantir Public: https://www.palantir.com/docs/foundry/release-notes/
+
+Instacart: https://docs.instacart.com/connect/api/fulfillment/changelog/
+
+Databricks: https://docs.databricks.com/release-notes/product/index.html
+
+OpenSea: https://docs.opensea.io/changelog
+
+Krisp: https://whatsnew.krisp.ai/
+
+Wickr: https://docs.aws.amazon.com/wickr/latest/userguide/release-notes.html
+
+Clubhouse IOS: https://joinclubhouse.notion.site/iOS-Release-Notes-acfb2f5d56cf4718b6486f5f670db6ad
+
+Clubhouse Android: https://joinclubhouse.notion.site/Android-Release-Notes-926b27ec299047b0ab65e4884f0b2605
+
+Judge.me: https://judge.me/changelog
+
+Evernote(Mac, Windows, IOS, Android, Web): https://help.evernote.com/hc/en-us/articles/360058361833-Evernote-release-notes
+
+Tinder: https://www.tinderpressroom.com/news?l=50&keywords=update
+
+Cardano Foundation: https://docs.cardano.org/tools/release-notes
