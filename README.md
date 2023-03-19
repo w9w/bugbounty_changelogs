@@ -128,7 +128,8 @@ Google:
 - Chrome enterprise: https://support.google.com/chrome/a/answer/7679408?hl=en
 - Cloud: https://cloud.google.com/release-notes
 - Android: https://developer.android.com/about/versions/12/release-notes
-- YT: https://support.google.com/youtube/answer/9730487?hl=en
+- Youtube for viewers: https://support.google.com/youtube/answer/9730487?hl=en
+- Youtube for creators: https://support.google.com/youtube/answer/9072033
 - Waze: https://developers.google.com/waze/wam-api/resources/change-log
 - Google earth: https://developers.google.com/earth-engine/changelog?hl=en
 - My business: https://developers.google.com/my-business/content/change-log?hl=en
@@ -175,3 +176,13 @@ Imperva: https://docs.imperva.com/bundle/articles/page/73179.htm
 Cloudflare: https://www.cloudflare.com/whats-new/
 
 AEX: https://www.aex.com/page/doc/en/update/update.html
+
+Salesforce:
+- https://help.salesforce.com/s/articleView?id=release-notes.salesforce_release_notes.htm
+- https://devcenter.heroku.com/changelog
+
+Twitter:
+- https://developer.twitter.com/en/updates/changelog
+- https://blog.hootsuite.com/social-media-updates/twitter/
+
+Twillio: https://www.twilio.com/changelog
