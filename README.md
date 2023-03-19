@@ -101,14 +101,6 @@ Lastpass: https://lastpass.com/upgrade.php?fromwebsite=1&releasenotes=1
 
 DigitalOcean: https://docs.digitalocean.com/release-notes/
 
-Discord: https://discord.com/developers/docs/change-log
-
-Instacart: https://docs.instacart.com/connect/api/fulfillment/changelog/
-
-OpenSea: https://docs.opensea.io/changelog
-
-Krisp: https://whatsnew.krisp.ai/
-
 Exodus: https://www.exodus.com/releases/
 
 Aiven: https://aiven.io/changelog
