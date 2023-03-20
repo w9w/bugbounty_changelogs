@@ -228,3 +228,48 @@ Evernote(Mac, Windows, IOS, Android, Web): https://help.evernote.com/hc/en-us/ar
 Tinder: https://www.tinderpressroom.com/news?l=50&keywords=update
 
 Cardano Foundation: https://docs.cardano.org/tools/release-notes
+
+Proton: https://proton.me/blog/news
+
+Bitpanda: https://blog.bitpanda.com/en/tag/news
+
+ByBit: https://bybit-exchange.github.io/docs/changelog/v5
+
+Redox: https://www.redoxengine.com/blog/category/redox/changelog/
+
+Indeed: https://www.indeed.com/hire/resources/product-updates-new-features
+
+NiceHash: https://www.nicehash.com/blog/tag/product-updates
+
+Bitget (BITGET tab): https://www.bitget.com/en/academy/article-list
+
+Octopus Deploy: https://octopus.com/downloads/previous
+
+Electroneum: https://github.com/electroneum/electroneum/releases
+
+Dropbox: https://www.dropbox.com/product-updates
+
+OKX: https://www.okx.com/learn/category/company-updates
+
+Near: https://near.org/blog/
+Near core: https://github.com/near/nearcore/releases
+
+ChainStack: https://docs.chainstack.com/release-notes
+
+ShapeShift: https://shapeshift.com/category/ethereum
+
+BingX: https://support.bingx.com/hc/en-001/sections/360010904494-Past-Announcements
+
+Ternoa wallet: https://medium.com/ternoa/search?q=update
+
+Bkex: https://bkex.zendesk.com/hc/en-us/sections/360005001554-Product-function-update
+
+Kucoin: https://www.kucoin.com/news/categories/change-log
+
+Avalanche Go: https://docs.avax.network/apis/avalanchego/avalanchego-release-notes
+
+Bitmart (general news and some new feature): https://www.crunchbase.com/organization/bitmart-exchange/investor_summary/overview_timeline
+
+Okcoin: https://support.okcoin.com/hc/en-us/sections/5410651150861-News-and-updates
+
+IoTex: https://developers.iotex.io/blog/updates
