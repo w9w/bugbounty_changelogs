@@ -273,3 +273,5 @@ Bitmart (general news and some new feature): https://www.crunchbase.com/organiza
 Okcoin: https://support.okcoin.com/hc/en-us/sections/5410651150861-News-and-updates
 
 IoTex: https://developers.iotex.io/blog/updates
+
+Gitlab: https://about.gitlab.com/releases/categories/releases/
