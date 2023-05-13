@@ -122,3 +122,4 @@ https://judge.me/changelog
 https://help.evernote.com/hc/en-us/articles/360058361833-Evernote-release-notes
 https://www.tinderpressroom.com/news?l=50&keywords=update
 https://docs.cardano.org/tools/release-notes
+https://developer.grammarly.com/docs/changelog/
