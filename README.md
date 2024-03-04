@@ -277,3 +277,5 @@ IoTex: https://developers.iotex.io/blog/updates
 Gitlab: https://about.gitlab.com/releases/categories/releases/
 
 Grammarly: https://developer.grammarly.com/docs/changelog/
+
+Surfshark Windows: https://downloads.surfshark.com/windows/stable/meta/windows-changelog.txt
