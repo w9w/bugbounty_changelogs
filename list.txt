@@ -7,7 +7,7 @@ https://www.tinderpressroom.com/news
 https://stripe.com/blog/changelog
 https://www.reddit.com/r/changelog/
 https://docs.whmcs.com/Changelogs
-https://docs.mattermost.com/install/self-managed-changelog.html
+https://docs.mattermost.com/about/server.html#
 https://www.larksuite.com/hc/en-US/articles/360046836333
 https://developers.yoti.com/v6.0/stay-updated/ageverification-release
 https://www.netlify.com/tags/changelog/
