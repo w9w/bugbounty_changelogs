@@ -5,6 +5,8 @@ Newly released features mean new bugs right? I dorked changelogs/development pro
 
 # Public:
 
+Intigriti: https://www.intigriti.com/blog/changelog
+
 Twitter: https://twitter.com/i/release_notes
 
 Hey: https://www.hey.com/new/
