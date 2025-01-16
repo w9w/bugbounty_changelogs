@@ -23,7 +23,7 @@ Reddit: https://www.reddit.com/r/changelog/
 
 WHMCS: https://docs.whmcs.com/Changelogs
 
-Mattermost: https://docs.mattermost.com/install/self-managed-changelog.html
+Mattermost: https://docs.mattermost.com/about/server.html#
 
 Lark Technologies: https://www.larksuite.com/hc/en-US/articles/360046836333
 
