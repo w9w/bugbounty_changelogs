@@ -158,7 +158,6 @@
 | Automattic | WordPress versions | https://codex.wordpress.org/WordPress_Versions | Active |
 | Bitwarden | Release notes | https://bitwarden.com/help/releasenotes/ | Active |
 | Booking Holdings | Booking.com — Connectivity API | https://developers.booking.com/connectivity/docs/changelog/changelog | 2026-03 |
-| Capital One | — | — | No changelog |
 | Chainlink | Dev changelog | https://dev.chain.link/changelog | 2026-04 |
 | Circle | Web3 Services | https://developers.circle.com/release-notes/w3s-2025 | 2025-12 |
 | Cloudflare | Developer changelog | https://developers.cloudflare.com/changelog/ | Active |
@@ -258,21 +257,15 @@
 |---|---|---|---|
 | Barracuda Networks | Release notes by product | https://campus.barracuda.com/product/campus/doc/78155716/release-notes-by-product/ | Active |
 | BigCommerce | Developer release notes | https://developer.bigcommerce.com/release-notes | 2026-01 |
-| Bumble | — | — | Press only |
 | ExpressVPN | Release notes | https://www.expressvpn.com/support/release-notes/ | Active |
-| Google (Fitbit) | — | — | Absorbed |
 | HPE | Aruba — AOS-10 | https://arubanetworking.hpe.com/techdocs/AOS_10.x_RN_WebHelp/Content/Home.htm | Active |
 | Indeed | Docs release notes | https://docs.indeed.com/release-notes/ | Active |
 | Instructure | Canvas LMS | https://community.instructure.com/en/discussion/665243/canvas-release-notes-2026-03-21 | 2026-03 |
-| Motorola | — | — | No changelog |
 | NETGEAR | Firmware downloads | https://www.netgear.com/support/download/ | Per-product |
-| Netflix | — | — | Newsroom only |
 | Pinterest | Developer changelog | https://developers.pinterest.com/docs/new/changelog/ | 2025-12 |
 | Samsung | Mobile security | https://security.samsungmobile.com/securityUpdate.smsb | Monthly |
 | SEEK | Developer release notes | https://developer.seek.com/introduction/release-notes | 2026-01 |
 | Tesla | Software updates (3rd party) | https://www.notateslaapp.com/software-updates/ | 2026-04 |
-| TripAdvisor | — | — | No changelog |
-| Western Union | — | — | No changelog |
 
 ---
 
@@ -296,10 +289,8 @@
 
 | Company | Product | Changelog URL | Updated |
 |---|---|---|---|
-| AS Watson | — | — | No changelog |
 | Coveo | Docs release notes | https://docs.coveo.com/en/1756/ | 2026-03 |
 | Intigriti | Platform changelog | https://www.intigriti.com/changelog | 2026-03 |
-| Storebrand | — | — | VDP only |
 
 ---
 
