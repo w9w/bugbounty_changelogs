@@ -121,7 +121,7 @@
 |---|---|---|
 | Grammarly — product releases | https://www.grammarly.com/releases | 2026-03 |
 | Grammarly — developer SDK | https://developer.grammarly.com/docs/changelog/ | Active |
-| Superhuman Mail | https://new.superhuman.com | Robots-blocked |
+| Superhuman Mail | https://new.superhuman.com | Active |
 
 ### Twilio
 
