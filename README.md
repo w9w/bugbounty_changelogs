@@ -3,9 +3,6 @@
 # Changelog & Release Notes Directory
 
 ~340 companies, ~500 changelog URLs. All verified post-Q3 2025.  
-Sorted by bug bounty platform. `—` = no public changelog found for that company.
-
-**Platform:** H1 = HackerOne · BC = Bugcrowd · IG = Intigriti · Own = self-hosted bounty · — = unknown/none
 
 ---
 
